@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="IBM E-Commerce Dashboard", layout="wide")
 
-st.title("IBM Advanced E-Commerce Dashboard")
+st.title("IBM Advanced E-Commerce Dashboard project by BCA(AI&DS) 2nd year")
 
 @st.cache_data
 def load_data():
